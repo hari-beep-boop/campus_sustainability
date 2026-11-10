@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --page: #E9F1EE;
+  --frame: #F3F9F7;
+  --card: #F8FCFB;
+  --card-border: #DCEAE5;
+  --ink: #16201D;
+  --muted: #8B9B97;
+  --primary: #0E6B5A;
+  --primary-soft: #DDF0EA;
+  --hatch: #E4EEEA;
+  --danger: #C23B3B;
+  --danger-soft: #FCE6E6;
+  --warn: #C2702A;
+  --energy: #B4532A;
+  --water: #1F7A9C;
+  --air: #2F8F6B;
+  --ai: #D9465F;
+}
+
+.dark {
+  --page: #0B1412;
+  --frame: #101C19;
+  --card: #15231F;
+  --card-border: #24362F;
+  --ink: #E6EFEC;
+  --muted: #8FA39D;
+  --primary: #2BB394;
+  --primary-soft: #1C3A33;
+  --hatch: #1B2B27;
+  --danger: #F27272;
+  --danger-soft: #3A1E1E;
+  --warn: #F0A35A;
+  --energy: #F08A5D;
+  --water: #5CC3E6;
+  --air: #5FD3A2;
+  --ai: #FF8095;
+}
+
+@layer base {
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: var(--page);
+    color: var(--ink);
+    font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+    font-variant-numeric: tabular-nums;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Diagonal hatched background pattern for empty schedule slots */
+.hatched-slot {
+  background: repeating-linear-gradient(
+    135deg,
+    var(--hatch) 0,
+    var(--hatch) 6px,
+    transparent 6px,
+    transparent 12px
+  );
+}
+
+/* Custom scrollbar matching soft mint tone */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--card-border);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}

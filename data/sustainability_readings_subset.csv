@@ -1,0 +1,871 @@
+timestamp,building_id,bdg2_building_name,display_name,building_type,campus,resource_type,value
+2026-10-21T00:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,62.4
+2026-10-21T00:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,124.0
+2026-10-21T00:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,422
+2026-10-21T00:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,84.1
+2026-10-21T00:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,118.5
+2026-10-21T00:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,418
+2026-10-21T00:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,65.2
+2026-10-21T00:00:00.000Z,3,"Library Complex",LIB,library,Main,water,109.2
+2026-10-21T00:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,425
+2026-10-21T00:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,168.4
+2026-10-21T00:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,176.8
+2026-10-21T00:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,840
+2026-10-21T00:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,58.7
+2026-10-21T00:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,112.4
+2026-10-21T00:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,416
+2026-10-21T01:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,59.1
+2026-10-21T01:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,115.0
+2026-10-21T01:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,415
+2026-10-21T01:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,82.3
+2026-10-21T01:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,110.2
+2026-10-21T01:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,412
+2026-10-21T01:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,61.8
+2026-10-21T01:00:00.000Z,3,"Library Complex",LIB,library,Main,water,104.5
+2026-10-21T01:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,418
+2026-10-21T01:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,112.5
+2026-10-21T01:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,135.2
+2026-10-21T01:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,890
+2026-10-21T01:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,55.3
+2026-10-21T01:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,108.0
+2026-10-21T01:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,410
+2026-10-21T02:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,58.2
+2026-10-21T02:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,112.4
+2026-10-21T02:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,412
+2026-10-21T02:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,80.6
+2026-10-21T02:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,106.8
+2026-10-21T02:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,410
+2026-10-21T02:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,60.4
+2026-10-21T02:00:00.000Z,3,"Library Complex",LIB,library,Main,water,102.1
+2026-10-21T02:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,415
+2026-10-21T02:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,84.2
+2026-10-21T02:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,118.0
+2026-10-21T02:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,920
+2026-10-21T02:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,54.1
+2026-10-21T02:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,105.3
+2026-10-21T02:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,408
+2026-10-21T03:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,57.5
+2026-10-21T03:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,110.8
+2026-10-21T03:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,410
+2026-10-21T03:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,79.8
+2026-10-21T03:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,105.1
+2026-10-21T03:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,408
+2026-10-21T03:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,59.8
+2026-10-21T03:00:00.000Z,3,"Library Complex",LIB,library,Main,water,101.5
+2026-10-21T03:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,412
+2026-10-21T03:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,76.3
+2026-10-21T03:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,110.4
+2026-10-21T03:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,950
+2026-10-21T03:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,53.8
+2026-10-21T03:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,104.2
+2026-10-21T03:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,405
+2026-10-21T04:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,58.0
+2026-10-21T04:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,114.2
+2026-10-21T04:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,411
+2026-10-21T04:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,80.1
+2026-10-21T04:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,108.6
+2026-10-21T04:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,409
+2026-10-21T04:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,61.2
+2026-10-21T04:00:00.000Z,3,"Library Complex",LIB,library,Main,water,103.8
+2026-10-21T04:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,414
+2026-10-21T04:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,78.9
+2026-10-21T04:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,115.6
+2026-10-21T04:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,970
+2026-10-21T04:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,54.5
+2026-10-21T04:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,106.1
+2026-10-21T04:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,407
+2026-10-21T05:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,64.2
+2026-10-21T05:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,125.0
+2026-10-21T05:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,418
+2026-10-21T05:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,88.4
+2026-10-21T05:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,120.4
+2026-10-21T05:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,415
+2026-10-21T05:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,67.3
+2026-10-21T05:00:00.000Z,3,"Library Complex",LIB,library,Main,water,112.0
+2026-10-21T05:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,420
+2026-10-21T05:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,98.2
+2026-10-21T05:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,185.0
+2026-10-21T05:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,980
+2026-10-21T05:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,60.2
+2026-10-21T05:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,115.3
+2026-10-21T05:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,414
+2026-10-21T06:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,78.5
+2026-10-21T06:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,145.0
+2026-10-21T06:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,428
+2026-10-21T06:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,105.2
+2026-10-21T06:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,138.2
+2026-10-21T06:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,425
+2026-10-21T06:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,78.0
+2026-10-21T06:00:00.000Z,3,"Library Complex",LIB,library,Main,water,125.4
+2026-10-21T06:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,430
+2026-10-21T06:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,165.4
+2026-10-21T06:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,385.2
+2026-10-21T06:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,910
+2026-10-21T06:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,72.4
+2026-10-21T06:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,130.0
+2026-10-21T06:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,422
+2026-10-21T07:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,112.0
+2026-10-21T07:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,240.5
+2026-10-21T07:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,450
+2026-10-21T07:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,138.6
+2026-10-21T07:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,220.0
+2026-10-21T07:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,445
+2026-10-21T07:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,98.5
+2026-10-21T07:00:00.000Z,3,"Library Complex",LIB,library,Main,water,175.2
+2026-10-21T07:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,442
+2026-10-21T07:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,215.8
+2026-10-21T07:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,620.4
+2026-10-21T07:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,850
+2026-10-21T07:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,105.0
+2026-10-21T07:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,190.2
+2026-10-21T07:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,438
+2026-10-21T08:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,184.2
+2026-10-21T08:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,315.6
+2026-10-21T08:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,580
+2026-10-21T08:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,210.4
+2026-10-21T08:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,290.4
+2026-10-21T08:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,560
+2026-10-21T08:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,145.2
+2026-10-21T08:00:00.000Z,3,"Library Complex",LIB,library,Main,water,230.1
+2026-10-21T08:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,510
+2026-10-21T08:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,192.5
+2026-10-21T08:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,540.2
+2026-10-21T08:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,720
+2026-10-21T08:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,175.4
+2026-10-21T08:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,280.5
+2026-10-21T08:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,540
+2026-10-21T09:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,228.6
+2026-10-21T09:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,285.0
+2026-10-21T09:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,780
+2026-10-21T09:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,254.1
+2026-10-21T09:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,275.2
+2026-10-21T09:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,750
+2026-10-21T09:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,168.0
+2026-10-21T09:00:00.000Z,3,"Library Complex",LIB,library,Main,water,245.8
+2026-10-21T09:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,650
+2026-10-21T09:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,135.0
+2026-10-21T09:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,360.5
+2026-10-21T09:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,580
+2026-10-21T09:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,218.4
+2026-10-21T09:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,260.0
+2026-10-21T09:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,720
+2026-10-21T10:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,245.3
+2026-10-21T10:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,240.2
+2026-10-21T10:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,960
+2026-10-21T10:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,272.5
+2026-10-21T10:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,235.4
+2026-10-21T10:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,930
+2026-10-21T10:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,182.4
+2026-10-21T10:00:00.000Z,3,"Library Complex",LIB,library,Main,water,210.5
+2026-10-21T10:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,780
+2026-10-21T10:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,92.4
+2026-10-21T10:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,195.0
+2026-10-21T10:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,480
+2026-10-21T10:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,232.0
+2026-10-21T10:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,225.4
+2026-10-21T10:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,880
+2026-10-21T11:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,256.0
+2026-10-21T11:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,265.8
+2026-10-21T11:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,1120
+2026-10-21T11:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,284.2
+2026-10-21T11:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,258.0
+2026-10-21T11:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,1080
+2026-10-21T11:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,195.8
+2026-10-21T11:00:00.000Z,3,"Library Complex",LIB,library,Main,water,232.0
+2026-10-21T11:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,890
+2026-10-21T11:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,85.6
+2026-10-21T11:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,180.2
+2026-10-21T11:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,450
+2026-10-21T11:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,242.5
+2026-10-21T11:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,245.0
+2026-10-21T11:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,990
+2026-10-21T12:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,248.5
+2026-10-21T12:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,415.2
+2026-10-21T12:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,1250
+2026-10-21T12:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,276.4
+2026-10-21T12:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,395.0
+2026-10-21T12:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,1200
+2026-10-21T12:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,190.2
+2026-10-21T12:00:00.000Z,3,"Library Complex",LIB,library,Main,water,345.5
+2026-10-21T12:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,950
+2026-10-21T12:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,105.4
+2026-10-21T12:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,485.6
+2026-10-21T12:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,520
+2026-10-21T12:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,235.8
+2026-10-21T12:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,380.0
+2026-10-21T12:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,1080
+2026-10-21T13:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,242.1
+2026-10-21T13:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,390.4
+2026-10-21T13:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,1280
+2026-10-21T13:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,269.8
+2026-10-21T13:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,380.2
+2026-10-21T13:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,1220
+2026-10-21T13:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,188.4
+2026-10-21T13:00:00.000Z,3,"Library Complex",LIB,library,Main,water,330.0
+2026-10-21T13:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,980
+2026-10-21T13:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,98.6
+2026-10-21T13:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,440.0
+2026-10-21T13:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,490
+2026-10-21T13:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,228.6
+2026-10-21T13:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,365.2
+2026-10-21T13:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,1100
+2026-10-21T14:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,251.4
+2026-10-21T14:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,320.1
+2026-10-21T14:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,1320
+2026-10-21T14:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,279.0
+2026-10-21T14:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,310.5
+2026-10-21T14:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,1260
+2026-10-21T14:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,196.2
+2026-10-21T14:00:00.000Z,3,"Library Complex",LIB,library,Main,water,280.0
+2026-10-21T14:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,1040
+2026-10-21T14:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,88.2
+2026-10-21T14:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,220.4
+2026-10-21T14:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,460
+2026-10-21T14:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,238.0
+2026-10-21T14:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,295.4
+2026-10-21T14:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,1140
+2026-10-21T15:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,246.8
+2026-10-21T15:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,250.6
+2026-10-21T15:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,1240
+2026-10-21T15:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,274.5
+2026-10-21T15:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,245.2
+2026-10-21T15:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,1190
+2026-10-21T15:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,192.0
+2026-10-21T15:00:00.000Z,3,"Library Complex",LIB,library,Main,water,240.2
+2026-10-21T15:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,1090
+2026-10-21T15:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,91.5
+2026-10-21T15:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,210.0
+2026-10-21T15:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,470
+2026-10-21T15:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,234.2
+2026-10-21T15:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,230.5
+2026-10-21T15:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,1060
+2026-10-21T16:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,235.1
+2026-10-21T16:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,210.4
+2026-10-21T16:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,1050
+2026-10-21T16:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,261.2
+2026-10-21T16:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,205.8
+2026-10-21T16:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,1020
+2026-10-21T16:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,186.5
+2026-10-21T16:00:00.000Z,3,"Library Complex",LIB,library,Main,water,225.4
+2026-10-21T16:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,1120
+2026-10-21T16:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,110.2
+2026-10-21T16:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,245.0
+2026-10-21T16:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,510
+2026-10-21T16:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,220.8
+2026-10-21T16:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,198.6
+2026-10-21T16:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,920
+2026-10-21T17:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,180.4
+2026-10-21T17:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,170.2
+2026-10-21T17:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,740
+2026-10-21T17:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,205.6
+2026-10-21T17:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,165.0
+2026-10-21T17:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,710
+2026-10-21T17:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,174.1
+2026-10-21T17:00:00.000Z,3,"Library Complex",LIB,library,Main,water,210.0
+2026-10-21T17:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,1050
+2026-10-21T17:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,145.8
+2026-10-21T17:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,310.2
+2026-10-21T17:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,620
+2026-10-21T17:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,165.2
+2026-10-21T17:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,160.4
+2026-10-21T17:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,680
+2026-10-21T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,142.0
+2026-10-21T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,150.0
+2026-10-21T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,540
+2026-10-21T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,168.4
+2026-10-21T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,145.6
+2026-10-21T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,520
+2026-10-21T18:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,162.8
+2026-10-21T18:00:00.000Z,3,"Library Complex",LIB,library,Main,water,245.0
+2026-10-21T18:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,980
+2026-10-21T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,218.4
+2026-10-21T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,480.5
+2026-10-21T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,780
+2026-10-21T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,125.0
+2026-10-21T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,140.0
+2026-10-21T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,490
+2026-10-21T19:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,120.5
+2026-10-21T19:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,135.2
+2026-10-21T19:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,480
+2026-10-21T19:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,145.2
+2026-10-21T19:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,130.8
+2026-10-21T19:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,470
+2026-10-21T19:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,152.0
+2026-10-21T19:00:00.000Z,3,"Library Complex",LIB,library,Main,water,280.4
+2026-10-21T19:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,920
+2026-10-21T19:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,258.0
+2026-10-21T19:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,650.0
+2026-10-21T19:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,920
+2026-10-21T19:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,105.8
+2026-10-21T19:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,125.0
+2026-10-21T19:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,455
+2026-10-21T20:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,102.4
+2026-10-21T20:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,128.0
+2026-10-21T20:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,450
+2026-10-21T20:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,124.6
+2026-10-21T20:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,122.4
+2026-10-21T20:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,445
+2026-10-21T20:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,138.5
+2026-10-21T20:00:00.000Z,3,"Library Complex",LIB,library,Main,water,265.0
+2026-10-21T20:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,850
+2026-10-21T20:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,265.4
+2026-10-21T20:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,590.2
+2026-10-21T20:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,1050
+2026-10-21T20:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,88.2
+2026-10-21T20:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,118.0
+2026-10-21T20:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,435
+2026-10-21T21:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,85.0
+2026-10-21T21:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,120.5
+2026-10-21T21:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,430
+2026-10-21T21:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,108.2
+2026-10-21T21:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,115.0
+2026-10-21T21:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,425
+2026-10-21T21:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,120.4
+2026-10-21T21:00:00.000Z,3,"Library Complex",LIB,library,Main,water,210.2
+2026-10-21T21:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,720
+2026-10-21T21:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,245.0
+2026-10-21T21:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,460.5
+2026-10-21T21:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,1100
+2026-10-21T21:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,75.4
+2026-10-21T21:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,112.5
+2026-10-21T21:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,425
+2026-10-21T22:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,70.2
+2026-10-21T22:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,116.4
+2026-10-21T22:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,422
+2026-10-21T22:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,92.5
+2026-10-21T22:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,111.0
+2026-10-21T22:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,418
+2026-10-21T22:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,95.0
+2026-10-21T22:00:00.000Z,3,"Library Complex",LIB,library,Main,water,150.8
+2026-10-21T22:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,580
+2026-10-21T22:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,210.2
+2026-10-21T22:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,320.0
+2026-10-21T22:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,1080
+2026-10-21T22:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,64.2
+2026-10-21T22:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,109.8
+2026-10-21T22:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,418
+2026-10-21T23:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,63.5
+2026-10-21T23:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,114.0
+2026-10-21T23:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,420
+2026-10-21T23:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,85.4
+2026-10-21T23:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,108.5
+2026-10-21T23:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,414
+2026-10-21T23:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,72.1
+2026-10-21T23:00:00.000Z,3,"Library Complex",LIB,library,Main,water,118.2
+2026-10-21T23:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,450
+2026-10-21T23:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,182.0
+2026-10-21T23:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,240.5
+2026-10-21T23:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,980
+2026-10-21T23:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,58.0
+2026-10-21T23:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,107.0
+2026-10-21T23:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,412
+2026-10-25T00:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,58.4
+2026-10-25T00:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,108.0
+2026-10-25T00:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,408
+2026-10-25T00:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,78.2
+2026-10-25T00:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,105.4
+2026-10-25T00:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,405
+2026-10-25T00:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,62.1
+2026-10-25T00:00:00.000Z,3,"Library Complex",LIB,library,Main,water,103.5
+2026-10-25T00:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,412
+2026-10-25T00:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,175.0
+2026-10-25T00:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,190.2
+2026-10-25T00:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,880
+2026-10-25T00:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,54.2
+2026-10-25T00:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,104.0
+2026-10-25T00:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,406
+2026-10-25T01:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,56.1
+2026-10-25T01:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,105.0
+2026-10-25T01:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,406
+2026-10-25T01:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,76.5
+2026-10-25T01:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,104.0
+2026-10-25T01:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,404
+2026-10-25T01:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,60.5
+2026-10-25T01:00:00.000Z,3,"Library Complex",LIB,library,Main,water,102.0
+2026-10-25T01:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,410
+2026-10-25T01:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,140.2
+2026-10-25T01:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,150.0
+2026-10-25T01:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,910
+2026-10-25T01:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,53.0
+2026-10-25T01:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,102.5
+2026-10-25T01:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,404
+2026-10-25T02:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,55.0
+2026-10-25T02:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,104.2
+2026-10-25T02:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,405
+2026-10-25T02:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,75.8
+2026-10-25T02:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,103.1
+2026-10-25T02:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,402
+2026-10-25T02:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,59.8
+2026-10-25T02:00:00.000Z,3,"Library Complex",LIB,library,Main,water,101.0
+2026-10-25T02:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,408
+2026-10-25T02:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,95.4
+2026-10-25T02:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,125.4
+2026-10-25T02:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,935
+2026-10-25T02:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,52.4
+2026-10-25T02:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,101.5
+2026-10-25T02:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,402
+2026-10-25T03:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,54.8
+2026-10-25T03:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,103.5
+2026-10-25T03:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,404
+2026-10-25T03:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,75.0
+2026-10-25T03:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,102.5
+2026-10-25T03:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,402
+2026-10-25T03:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,59.2
+2026-10-25T03:00:00.000Z,3,"Library Complex",LIB,library,Main,water,100.8
+2026-10-25T03:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,407
+2026-10-25T03:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,78.2
+2026-10-25T03:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,112.0
+2026-10-25T03:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,960
+2026-10-25T03:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,52.0
+2026-10-25T03:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,101.0
+2026-10-25T03:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,401
+2026-10-25T04:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,55.2
+2026-10-25T04:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,104.0
+2026-10-25T04:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,405
+2026-10-25T04:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,75.4
+2026-10-25T04:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,103.0
+2026-10-25T04:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,403
+2026-10-25T04:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,59.5
+2026-10-25T04:00:00.000Z,3,"Library Complex",LIB,library,Main,water,101.2
+2026-10-25T04:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,408
+2026-10-25T04:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,76.5
+2026-10-25T04:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,114.2
+2026-10-25T04:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,980
+2026-10-25T04:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,52.3
+2026-10-25T04:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,101.8
+2026-10-25T04:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,402
+2026-10-25T05:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,56.8
+2026-10-25T05:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,106.5
+2026-10-25T05:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,408
+2026-10-25T05:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,77.0
+2026-10-25T05:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,105.0
+2026-10-25T05:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,405
+2026-10-25T05:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,61.0
+2026-10-25T05:00:00.000Z,3,"Library Complex",LIB,library,Main,water,103.0
+2026-10-25T05:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,410
+2026-10-25T05:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,82.4
+2026-10-25T05:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,130.5
+2026-10-25T05:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,990
+2026-10-25T05:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,53.5
+2026-10-25T05:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,102.5
+2026-10-25T05:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,404
+2026-10-25T06:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,60.2
+2026-10-25T06:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,110.0
+2026-10-25T06:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,410
+2026-10-25T06:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,80.5
+2026-10-25T06:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,108.5
+2026-10-25T06:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,408
+2026-10-25T06:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,64.2
+2026-10-25T06:00:00.000Z,3,"Library Complex",LIB,library,Main,water,106.0
+2026-10-25T06:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,412
+2026-10-25T06:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,105.8
+2026-10-25T06:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,185.0
+2026-10-25T06:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,960
+2026-10-25T06:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,55.8
+2026-10-25T06:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,105.2
+2026-10-25T06:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,407
+2026-10-25T07:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,65.8
+2026-10-25T07:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,115.4
+2026-10-25T07:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,414
+2026-10-25T07:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,85.2
+2026-10-25T07:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,114.2
+2026-10-25T07:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,412
+2026-10-25T07:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,70.5
+2026-10-25T07:00:00.000Z,3,"Library Complex",LIB,library,Main,water,112.5
+2026-10-25T07:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,416
+2026-10-25T07:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,145.0
+2026-10-25T07:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,295.4
+2026-10-25T07:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,920
+2026-10-25T07:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,60.2
+2026-10-25T07:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,109.0
+2026-10-25T07:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,410
+2026-10-25T08:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,75.4
+2026-10-25T08:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,125.0
+2026-10-25T08:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,420
+2026-10-25T08:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,96.4
+2026-10-25T08:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,122.0
+2026-10-25T08:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,418
+2026-10-25T08:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,92.0
+2026-10-25T08:00:00.000Z,3,"Library Complex",LIB,library,Main,water,135.0
+2026-10-25T08:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,430
+2026-10-25T08:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,178.6
+2026-10-25T08:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,410.2
+2026-10-25T08:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,880
+2026-10-25T08:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,68.0
+2026-10-25T08:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,115.0
+2026-10-25T08:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,415
+2026-10-25T09:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,85.2
+2026-10-25T09:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,135.2
+2026-10-25T09:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,435
+2026-10-25T09:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,108.5
+2026-10-25T09:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,130.0
+2026-10-25T09:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,430
+2026-10-25T09:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,125.4
+2026-10-25T09:00:00.000Z,3,"Library Complex",LIB,library,Main,water,168.0
+2026-10-25T09:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,480
+2026-10-25T09:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,188.0
+2026-10-25T09:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,490.5
+2026-10-25T09:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,840
+2026-10-25T09:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,74.5
+2026-10-25T09:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,120.4
+2026-10-25T09:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,422
+2026-10-25T10:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,92.0
+2026-10-25T10:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,142.0
+2026-10-25T10:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,450
+2026-10-25T10:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,115.0
+2026-10-25T10:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,138.5
+2026-10-25T10:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,445
+2026-10-25T10:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,148.0
+2026-10-25T10:00:00.000Z,3,"Library Complex",LIB,library,Main,water,195.4
+2026-10-25T10:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,540
+2026-10-25T10:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,192.4
+2026-10-25T10:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,530.0
+2026-10-25T10:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,790
+2026-10-25T10:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,78.2
+2026-10-25T10:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,125.0
+2026-10-25T10:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,428
+2026-10-25T11:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,96.5
+2026-10-25T11:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,148.0
+2026-10-25T11:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,460
+2026-10-25T11:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,118.4
+2026-10-25T11:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,142.0
+2026-10-25T11:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,450
+2026-10-25T11:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,162.5
+2026-10-25T11:00:00.000Z,3,"Library Complex",LIB,library,Main,water,215.0
+2026-10-25T11:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,620
+2026-10-25T11:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,185.0
+2026-10-25T11:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,510.4
+2026-10-25T11:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,750
+2026-10-25T11:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,80.5
+2026-10-25T11:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,128.5
+2026-10-25T11:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,432
+2026-10-25T12:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,98.2
+2026-10-25T12:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,165.0
+2026-10-25T12:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,465
+2026-10-25T12:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,120.4
+2026-10-25T12:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,158.2
+2026-10-25T12:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,455
+2026-10-25T12:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,170.2
+2026-10-25T12:00:00.000Z,3,"Library Complex",LIB,library,Main,water,245.0
+2026-10-25T12:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,680
+2026-10-25T12:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,198.5
+2026-10-25T12:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,580.2
+2026-10-25T12:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,780
+2026-10-25T12:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,82.0
+2026-10-25T12:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,135.0
+2026-10-25T12:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,435
+2026-10-25T13:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,97.5
+2026-10-25T13:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,160.4
+2026-10-25T13:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,462
+2026-10-25T13:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,119.5
+2026-10-25T13:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,154.0
+2026-10-25T13:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,452
+2026-10-25T13:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,168.4
+2026-10-25T13:00:00.000Z,3,"Library Complex",LIB,library,Main,water,238.0
+2026-10-25T13:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,695
+2026-10-25T13:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,192.0
+2026-10-25T13:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,540.0
+2026-10-25T13:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,760
+2026-10-25T13:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,81.4
+2026-10-25T13:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,132.5
+2026-10-25T13:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,434
+2026-10-25T14:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,96.0
+2026-10-25T14:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,150.0
+2026-10-25T14:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,458
+2026-10-25T14:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,116.8
+2026-10-25T14:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,148.2
+2026-10-25T14:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,450
+2026-10-25T14:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,174.5
+2026-10-25T14:00:00.000Z,3,"Library Complex",LIB,library,Main,water,250.2
+2026-10-25T14:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,740
+2026-10-25T14:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,178.4
+2026-10-25T14:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,460.0
+2026-10-25T14:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,720
+2026-10-25T14:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,80.0
+2026-10-25T14:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,128.0
+2026-10-25T14:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,430
+2026-10-25T15:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,94.2
+2026-10-25T15:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,142.5
+2026-10-25T15:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,452
+2026-10-25T15:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,114.0
+2026-10-25T15:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,140.5
+2026-10-25T15:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,446
+2026-10-25T15:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,172.0
+2026-10-25T15:00:00.000Z,3,"Library Complex",LIB,library,Main,water,242.0
+2026-10-25T15:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,760
+2026-10-25T15:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,172.5
+2026-10-25T15:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,420.5
+2026-10-25T15:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,705
+2026-10-25T15:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,78.5
+2026-10-25T15:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,124.0
+2026-10-25T15:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,428
+2026-10-25T16:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,90.4
+2026-10-25T16:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,136.0
+2026-10-25T16:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,446
+2026-10-25T16:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,110.2
+2026-10-25T16:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,135.0
+2026-10-25T16:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,440
+2026-10-25T16:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,166.0
+2026-10-25T16:00:00.000Z,3,"Library Complex",LIB,library,Main,water,230.5
+2026-10-25T16:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,730
+2026-10-25T16:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,180.2
+2026-10-25T16:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,440.0
+2026-10-25T16:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,730
+2026-10-25T16:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,75.0
+2026-10-25T16:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,120.0
+2026-10-25T16:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,424
+2026-10-25T17:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,84.5
+2026-10-25T17:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,130.0
+2026-10-25T17:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,438
+2026-10-25T17:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,104.0
+2026-10-25T17:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,128.0
+2026-10-25T17:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,434
+2026-10-25T17:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,158.4
+2026-10-25T17:00:00.000Z,3,"Library Complex",LIB,library,Main,water,218.0
+2026-10-25T17:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,690
+2026-10-25T17:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,205.4
+2026-10-25T17:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,490.2
+2026-10-25T17:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,770
+2026-10-25T17:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,70.5
+2026-10-25T17:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,116.0
+2026-10-25T17:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,420
+2026-10-25T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,76.0
+2026-10-25T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,122.4
+2026-10-25T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,430
+2026-10-25T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,96.5
+2026-10-25T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,122.0
+2026-10-25T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,428
+2026-10-25T18:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,148.0
+2026-10-25T18:00:00.000Z,3,"Library Complex",LIB,library,Main,water,205.0
+2026-10-25T18:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,650
+2026-10-25T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,245.0
+2026-10-25T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,590.5
+2026-10-25T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,860
+2026-10-25T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,66.0
+2026-10-25T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,112.5
+2026-10-25T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,416
+2026-10-25T19:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,70.5
+2026-10-25T19:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,118.0
+2026-10-25T19:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,424
+2026-10-25T19:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,90.0
+2026-10-25T19:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,116.5
+2026-10-25T19:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,422
+2026-10-25T19:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,138.2
+2026-10-25T19:00:00.000Z,3,"Library Complex",LIB,library,Main,water,190.0
+2026-10-25T19:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,610
+2026-10-25T19:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,275.4
+2026-10-25T19:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,680.0
+2026-10-25T19:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,990
+2026-10-25T19:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,62.4
+2026-10-25T19:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,109.5
+2026-10-25T19:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,412
+2026-10-25T20:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,66.8
+2026-10-25T20:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,114.0
+2026-10-25T20:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,418
+2026-10-25T20:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,86.2
+2026-10-25T20:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,112.0
+2026-10-25T20:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,418
+2026-10-25T20:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,126.0
+2026-10-25T20:00:00.000Z,3,"Library Complex",LIB,library,Main,water,170.0
+2026-10-25T20:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,560
+2026-10-25T20:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,282.0
+2026-10-25T20:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,630.5
+2026-10-25T20:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,1080
+2026-10-25T20:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,59.8
+2026-10-25T20:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,107.0
+2026-10-25T20:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,410
+2026-10-25T21:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,63.2
+2026-10-25T21:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,111.5
+2026-10-25T21:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,414
+2026-10-25T21:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,82.4
+2026-10-25T21:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,109.0
+2026-10-25T21:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,412
+2026-10-25T21:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,112.5
+2026-10-25T21:00:00.000Z,3,"Library Complex",LIB,library,Main,water,150.2
+2026-10-25T21:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,510
+2026-10-25T21:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,264.0
+2026-10-25T21:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,510.0
+2026-10-25T21:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,1120
+2026-10-25T21:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,57.5
+2026-10-25T21:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,105.5
+2026-10-25T21:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,408
+2026-10-25T22:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,60.5
+2026-10-25T22:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,109.0
+2026-10-25T22:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,410
+2026-10-25T22:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,79.5
+2026-10-25T22:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,107.0
+2026-10-25T22:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,408
+2026-10-25T22:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,88.4
+2026-10-25T22:00:00.000Z,3,"Library Complex",LIB,library,Main,water,125.0
+2026-10-25T22:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,460
+2026-10-25T22:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,232.0
+2026-10-25T22:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,380.0
+2026-10-25T22:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,1090
+2026-10-25T22:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,55.8
+2026-10-25T22:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,104.0
+2026-10-25T22:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,406
+2026-10-25T23:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,energy,58.8
+2026-10-25T23:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,water,107.5
+2026-10-25T23:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,co2,408
+2026-10-25T23:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,energy,78.0
+2026-10-25T23:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,water,105.8
+2026-10-25T23:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,co2,406
+2026-10-25T23:00:00.000Z,3,"Library Complex",LIB,library,Main,energy,68.0
+2026-10-25T23:00:00.000Z,3,"Library Complex",LIB,library,Main,water,110.0
+2026-10-25T23:00:00.000Z,3,"Library Complex",LIB,library,Main,co2,425
+2026-10-25T23:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,energy,198.5
+2026-10-25T23:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,water,260.4
+2026-10-25T23:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,co2,990
+2026-10-25T23:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,energy,54.5
+2026-10-25T23:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,water,103.5
+2026-10-25T23:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,co2,405
+2026-09-28T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.4
+2026-09-28T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,29.1
+2026-09-28T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,21.5
+2026-09-28T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,36.8
+2026-09-28T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.2
+2026-09-29T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,27.9
+2026-09-29T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,28.5
+2026-09-29T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.0
+2026-09-29T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,35.4
+2026-09-29T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.8
+2026-09-30T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,29.2
+2026-09-30T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,30.0
+2026-09-30T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,23.1
+2026-09-30T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,38.2
+2026-09-30T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,19.0
+2026-10-01T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.0
+2026-10-01T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,28.8
+2026-10-01T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,21.8
+2026-10-01T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,36.5
+2026-10-01T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.0
+2026-10-02T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,26.5
+2026-10-02T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,27.4
+2026-10-02T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,20.5
+2026-10-02T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,37.0
+2026-10-02T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.2
+2026-10-03T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,8.5
+2026-10-03T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,9.2
+2026-10-03T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,12.8
+2026-10-03T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,44.2
+2026-10-03T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,6.5
+2026-10-04T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,7.8
+2026-10-04T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,8.6
+2026-10-04T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,11.5
+2026-10-04T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,45.8
+2026-10-04T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,5.8
+2026-10-05T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,29.5
+2026-10-05T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,30.2
+2026-10-05T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.4
+2026-10-05T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,35.0
+2026-10-05T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.5
+2026-10-06T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.2
+2026-10-06T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,28.9
+2026-10-06T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,21.9
+2026-10-06T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,36.2
+2026-10-06T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.9
+2026-10-07T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,27.6
+2026-10-07T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,28.4
+2026-10-07T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,21.2
+2026-10-07T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,34.8
+2026-10-07T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.4
+2026-10-08T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.8
+2026-10-08T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,29.5
+2026-10-08T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.6
+2026-10-08T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,37.2
+2026-10-08T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.8
+2026-10-09T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,27.0
+2026-10-09T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,27.8
+2026-10-09T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,20.8
+2026-10-09T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,38.0
+2026-10-09T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.5
+2026-10-10T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,8.2
+2026-10-10T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,9.0
+2026-10-10T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,12.5
+2026-10-10T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,43.8
+2026-10-10T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,6.2
+2026-10-11T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,7.5
+2026-10-11T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,8.4
+2026-10-11T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,11.2
+2026-10-11T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,46.0
+2026-10-11T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,5.5
+2026-10-12T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,29.8
+2026-10-12T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,30.5
+2026-10-12T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.8
+2026-10-12T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,35.8
+2026-10-12T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.7
+2026-10-13T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.5
+2026-10-13T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,29.2
+2026-10-13T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.0
+2026-10-13T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,36.0
+2026-10-13T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.1
+2026-10-14T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,27.8
+2026-10-14T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,28.5
+2026-10-14T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,21.5
+2026-10-14T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,35.2
+2026-10-14T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.6
+2026-10-15T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.9
+2026-10-15T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,29.8
+2026-10-15T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.4
+2026-10-15T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,37.5
+2026-10-15T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.9
+2026-10-16T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,26.8
+2026-10-16T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,27.6
+2026-10-16T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,20.6
+2026-10-16T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,38.5
+2026-10-16T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.4
+2026-10-17T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,8.6
+2026-10-17T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,9.4
+2026-10-17T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,12.7
+2026-10-17T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,44.5
+2026-10-17T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,6.4
+2026-10-18T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,7.9
+2026-10-18T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,8.8
+2026-10-18T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,11.8
+2026-10-18T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,46.2
+2026-10-18T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,5.7
+2026-10-19T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,29.4
+2026-10-19T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,30.1
+2026-10-19T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.5
+2026-10-19T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,35.5
+2026-10-19T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.4
+2026-10-20T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.6
+2026-10-20T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,29.3
+2026-10-20T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.1
+2026-10-20T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,36.4
+2026-10-20T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.2
+2026-10-21T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.0
+2026-10-21T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,28.7
+2026-10-21T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,21.7
+2026-10-21T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,35.0
+2026-10-21T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.8
+2026-10-22T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,29.1
+2026-10-22T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,29.9
+2026-10-22T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.6
+2026-10-22T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,37.1
+2026-10-22T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.6
+2026-10-23T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,27.1
+2026-10-23T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,27.9
+2026-10-23T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,20.9
+2026-10-23T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,38.2
+2026-10-23T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,17.5
+2026-10-24T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,8.4
+2026-10-24T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,9.1
+2026-10-24T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,12.6
+2026-10-24T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,44.0
+2026-10-24T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,6.3
+2026-10-25T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,7.6
+2026-10-25T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,8.5
+2026-10-25T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,11.4
+2026-10-25T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,46.5
+2026-10-25T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,5.6
+2026-10-26T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,29.7
+2026-10-26T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,30.4
+2026-10-26T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,22.7
+2026-10-26T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,35.6
+2026-10-26T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.6
+2026-10-27T18:00:00.000Z,1,"Science Block A",SCI-A,academic,Main,waste,28.4
+2026-10-27T18:00:00.000Z,2,"Engineering Hall",ENG,academic,Main,waste,29.1
+2026-10-27T18:00:00.000Z,3,"Library Complex",LIB,library,Main,waste,21.8
+2026-10-27T18:00:00.000Z,4,"Student Residence North",RES-N,residential,Main,waste,36.2
+2026-10-27T18:00:00.000Z,5,"Admin Building",ADMIN,administrative,Main,waste,18.0
